@@ -1,0 +1,24 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <ion-title>
+      Login
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+
+  <button ion-button block color="light" (click)="createAccount()">
+    Criar conta
+  </button>
+
+  <p text-center>Ou</p>
+
+  <button ion-button block (click)="signInWithEmailPage()">
+    Entrar com e-mail e senha
+  </button>
+
+  <button ion-button block (click)="resetPage()">
+    Esqueci minha senha
+  </button>
+</ion-content>
