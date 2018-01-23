@@ -28,12 +28,12 @@ import { ImagePicker } from '@ionic-native/image-picker';
 import { Camera } from '@ionic-native/camera';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCkGfF0JWp7hfIhn5kWNbWcS7o6Gt2u-ms",
-  authDomain: "societypro-1375.firebaseapp.com",
-  databaseURL: "https://societypro-1375.firebaseio.com",
-  projectId: "societypro-1375",
-  storageBucket: "societypro-1375.appspot.com",
-  messagingSenderId: "773475838516"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: ""
 };
 
 
